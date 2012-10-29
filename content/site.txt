@@ -1,0 +1,21 @@
+<<<<<<< HEAD
+Title: Eduard Mayer
+=======
+﻿Title: Knowledge-Base
+
+>>>>>>> updated with bootstrap
+----
+
+Author: Your company
+
+----
+
+Description: Knowledge-Base
+
+----
+
+Keywords: knowledge-base, something
+
+----
+
+Copyright: © 2012 Your company
